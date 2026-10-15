@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+
+# Program bantu yang diunduh otomatis (cloudflared)
+tools/
+
+# Cache, log, dan berkas kerja sementara (graf jalan, alamat publik) — dibuat ulang otomatis
+scratch/
+
+# Lingkungan lokal
+.venv/
+.pytest_cache/
+.claude/
