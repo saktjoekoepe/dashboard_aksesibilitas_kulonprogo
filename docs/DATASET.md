@@ -65,5 +65,5 @@ Pola nama kolom penting di `thesis_grid_results.csv.gz` (`{level}` = `baseline`,
 - Batas administrasi: Badan Informasi Geospasial (BIG), skala 1:10.000.
 - Jaringan jalan: © OpenStreetMap contributors (ODbL).
 - Indeks bahaya banjir: InaRisk, BNPB.
-- Data penduduk per kalurahan: **[lengkapi sumber dan tahun]**.
-- Titik bangunan publik (TES): **[lengkapi sumber dan tahun]**.
+- Data penduduk per kalurahan: **BPS Kabupaten Kulon Progo**.
+- Titik bangunan publik (TES): **Google Maps**.

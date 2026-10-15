@@ -8,13 +8,12 @@ C-Means* (SDWFCM) pada grid 100 × 100 m.
 
 | | |
 |---|---|
-| Judul | **[judul skripsi resmi]** |
-| Nama | **[nama lengkap]** |
-| NIM | **[NIM]** |
-| Program Studi | **[program studi]** |
-| Fakultas / Universitas | **[fakultas, universitas]** |
-| Dosen Pembimbing | **[nama dosen pembimbing]** |
-| Tahun | **[tahun]** |
+| Judul | **PEMETAAN TINGKAT AKSESIBILITAS SPASIAL BANGUNAN PUBLIK SEBAGAI TEMPAT EVAKUASI SEMENTARA BENCANA BANJIR MENGGUNAKAN METODE SDWFCM BERBASIS GRID MIKRO (Studi Kasus: Kabupaten Kulon Progo)** |
+| Nama | **Laurentius Trisna Yuwana** |
+| NIM | **222212703** |
+| Program Studi | **Komputasi Statistik** |
+| Dosen Pembimbing | **Dr. Robert Kurniawan, SST., M.Si.** |
+| Tahun | **2026** |
 | Jenis artifak | Information Dashboard (aplikasi web) |
 
 ## Deskripsi
